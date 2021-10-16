@@ -1,5 +1,6 @@
 jupyterlab
 numpy
 cmake
-'gym[atari]'
 scipy
+gym
+tensorflow
